@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @riellyzina
+- meu email de contato é rielly.ferro@escola.pr.gov.br
+- 👀 Estou interessado em programaçao
+- 🌱 I’m currently learning  programaçao  de javascript e  scratch
